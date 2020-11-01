@@ -24,8 +24,8 @@ Adds (up to date) TweakScale /L patches for many smaller Add'Ons that would not 
 **TweakScale Companion [Multipass](https://youtu.be/NVPLqbWXdDA)** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/) support for the following Add'Ons:
 
 * Arc Aerospace's Wyvern
-	+ [DropBox](https://drive.google.com/open?id=0B3KjWA5ZuxhrZmcydDhseE0xVzQ) for [1.2.2 <= KSP <= 1.3.1]
-	+ [GitHub](https://github.com/StoneBlue/ArcAerospace-Wyvern/releases) possible new Maintainer, for KSP >= 1.4
+* MechJeb2
+* Tarsier Space Technologies
 
 
 ## Installation
@@ -76,3 +76,12 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [DropBox](https://drive.google.com/open?id=0B3KjWA5ZuxhrZmcydDhseE0xVzQ)
 	+ Possible new Maintainer
 		- [GitHub](https://github.com/StoneBlue/ArcAerospace-Wyvern/releases) possible new Maintainer, for KSP >= 1.4
+* MechJeb2
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/154834-*)
+	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/mechjeb)
+	+ [GitHub](https://github.com/MuMech/MechJeb2)
+* Tarsier Space Technologies
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/154853-*)
+	+ [CurseForge](https://kerbal.curseforge.com/projects/tarsier-space-technology-continued)
+	+ [SpaceDock](http://spacedock.info/mod/143/Tarsier%20Space%20Technology%20with%20Galaxies%20Continued...)
+	+ [GitHub](https://github.com/JPLRepo/TarsierSpaceTechnology/releases)
