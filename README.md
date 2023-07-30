@@ -23,7 +23,6 @@ Adds (up to date) TweakScale /L patches for many smaller Add'Ons that would not 
 
 **TweakScale Companion [Multipass](https://youtu.be/NVPLqbWXdDA)** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/) support for the following Add'Ons:
 
-* Arc Aerospace's Wyvern
 * MechJeb2
 * Tarsier Space Technologies
 
@@ -73,11 +72,6 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
 	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale)
-* Arc Aerospace's Wyvern
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/165224-13-wyvern-an-advanced-5-kerbal-crew-capsule/&)
-	+ [DropBox](https://drive.google.com/open?id=0B3KjWA5ZuxhrZmcydDhseE0xVzQ)
-	+ Possible new Maintainer
-		- [GitHub](https://github.com/StoneBlue/ArcAerospace-Wyvern/releases) possible new Maintainer, for KSP >= 1.4
 * MechJeb2
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/154834-*)
 	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/mechjeb)
